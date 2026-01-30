@@ -9,4 +9,8 @@ b="calc 4"
 g=503
 #-comments
 #4
+
 print("ABC"); print("Gold Apple"); print("Iphone")
+
+#5
+print("40"); print("000"); print("tenge")
